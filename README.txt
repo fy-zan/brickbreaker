@@ -1,0 +1,1 @@
+A Brick Breaker game made in Vanilla JS without the use of external libraries. Enjoy! 
